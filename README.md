@@ -11,9 +11,10 @@ I made this script for myself, since I reference other YouTube videos and memes 
 1. Right-click on "Raw" and save the file
 2. Double-click on the .reg file and confirm adding the keys to the registry
 3. Download Windows Terminal
-4. Copy the video link, go to the folder where you want to download it
-5. Right click on the empty space and choose youtube-dl
-6. Voilà!
+4. Add the custom ytdl profile from the settings.json
+5. Copy the video link, go to the folder where you want to download it
+6. Right click on the empty space and choose youtube-dl
+7. Voilà!
 
 This script requires **youtube-dl** and **ffmpeg**.
 **To install youtube-dl and ffmpeg:**
